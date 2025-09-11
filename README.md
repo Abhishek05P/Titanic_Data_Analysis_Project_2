@@ -9,6 +9,5 @@
 *  An interactive Power BI dashboard powered with **DAX**
 
 
-
-| **Tags**                                                                                                                                   | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                                                     
-| `#Python` `#Pandas` `#EDA` `#DataVisualization` `#SurvivalPrediction` `#DataModeling` `#PowerBI` `#DAX` `#InteractiveDashboard` `#BusinessIntelligence` `#EndToEndProject
+| **Tags** | --------------------------------------------------------------------------------------------------------------------------------------
+| `#Python` `#Pandas` `#EDA` `#DataVisualization`  `#SurvivalPrediction` `#DataModeling` `#PowerBI` `#DAX` `#DashboardDesign` `#BusinessIntelligence` `#EndToEndProject` |
