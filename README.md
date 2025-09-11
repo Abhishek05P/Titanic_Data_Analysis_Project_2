@@ -12,6 +12,6 @@
 
 
 
+## **🏷 Tags**
 
-| **Tags** 
 | `#Python` `#Pandas` `#EDA` `#DataVisualization`  `#SurvivalPrediction` `#DataModeling` `#PowerBI` `#DAX` `#DashboardDesign` `#BusinessIntelligence` `#EndToEndProject` |
