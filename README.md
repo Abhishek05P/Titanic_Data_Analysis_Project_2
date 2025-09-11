@@ -13,7 +13,5 @@
 * Visualized key patterns using **bar plots**, **histograms**, heatmaps, and **boxplots** to analyze the impact of features like age, gender, class, and fare on survival.
 *  An interactive Power BI dashboard powered with **DAX**
 
-
-                                                            | **Tags** |
-| ----------------------------------------------------------------------------------------------------------------------------|
+| **Tags** 
 | `#Python` `#Pandas` `#EDA` `#DataVisualization`  `#SurvivalPrediction` `#DataModeling` `#PowerBI` `#DAX` `#DashboardDesign` `#BusinessIntelligence` `#EndToEndProject` |
